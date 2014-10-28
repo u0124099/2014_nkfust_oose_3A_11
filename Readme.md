@@ -84,6 +84,7 @@
 <p><img src="http://666kb.com/i/csuna1t0ve469sk7h.jpg" title="hosted by 666kb.com"/><p>
 
 ## 六、個別使用案例的活動圖 ##
+
 ###咖啡館查詢作業###
 <p><img src="http://666kb.com/i/ct1tz03ipsivdvaik.gif" title="hosted by 666kb.com"/><p>
 ###咖啡館基本資料作業###
