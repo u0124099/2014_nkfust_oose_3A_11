@@ -135,11 +135,11 @@
 
 ##十一、使用案例之系統循序圖##
 咖啡館查詢作業
-<p><<img src="http://666kb.com/i/csuoofva50rl4rzv1.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/csuoofva50rl4rzv1.gif" title="hosted by 666kb.com"/></p>
 咖啡館基本資料處理作業
 <p><img src="http://666kb.com/i/csuonm0kgfiodh2z1.gif" title="hosted by 666kb.com"/></p>
 咖啡館排名比對作業
-<p><<img src="http://666kb.com/i/csuop7jwxxiij10zx.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/csuop7jwxxiij10zx.gif" title="hosted by 666kb.com"/></p>
 咖啡館即時資料處理作業
 <p><img src="http://666kb.com/i/csuopsfm6voz1k2fh.gif" title="hosted by 666kb.com"/></p>
 廣告贊助商資訊管理作業
