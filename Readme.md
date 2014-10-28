@@ -9,7 +9,7 @@
 ## 專題題目 : 左營咖啡館##
 
 
-##一、動 ##
+##一、動機 ##
        
 ### 這個系統是專門在介紹左營附近的所有咖啡館，因為在高雄這個地區，   左營的一些咖啡館蠻知名的，所以想要做這個系統方便咖啡愛好者快速找到咖啡館，並得到咖啡館的相關資訊，也可藉由這系統的排名資訊，去品嘗當月熱門咖啡館。
       
@@ -85,7 +85,18 @@
 
 ## 六、個別使用案例的活動圖 ##
 ###咖啡館查詢作業###
-<p> <img src="http://666kb.com/i/csnmwj70yxnxv1arf.gif" title="hosted by 666kb.com"/> <p>
+<p><img src="http://666kb.com/i/ct1tz03ipsivdvaik.gif" title="hosted by 666kb.com"/><p>
+###咖啡館基本資料作業###
+<p><img src="http://666kb.com/i/ct1u7duojwk08wiyk.gif" title="hosted by 666kb.com"/><p>
+###咖啡館排名比對資料作業###
+<p><img src="http://666kb.com/i/ct1u82u8vxwl3cfek.gif" title="hosted by 666kb.com"/><p>
+###咖啡館即時資訊處理作業###
+<p><img src="http://666kb.com/i/ct1u8nqi898qey130.jpg" title="hosted by 666kb.com"/><p>
+###廣告贊助商資訊管理作業###
+<p><img src="http://666kb.com/i/ct1u9uvucvh9vslq4.jpg" title="hosted by 666kb.com"/><p>
+###分析知名部落客作業###
+<p><img src="http://666kb.com/i/ct1uados4afcaxqt8.gif" title="hosted by 666kb.com"/><p>
+
 
 ## 七、每個使用案例的名詞與概念類別列舉表 ##
 <p> <img src="http://666kb.com/i/csunk1xf5don8xt8t.png" title="hosted by 666kb.com"/>
