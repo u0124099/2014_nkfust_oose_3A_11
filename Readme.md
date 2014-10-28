@@ -86,20 +86,21 @@
 ## 六、個別使用案例的活動圖 ##
 
 咖啡館查詢作業
-<p><img src="http://666kb.com/i/ct1v1rcahv0arfvgc.jpg" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v9ojz28kzwvsvw.gif" title="hosted by 666kb.com"/>
+</p>
 咖啡館基本資料作業
-<p><img src="http://666kb.com/i/ct1v2bj8es4qn1hx8.jpg" title="hosted by 666kb.com"/>
+<p><img src="http://666kb.com/i/ct1va4k6onzv96zuk.gif" title="hosted by 666kb.com"/>
 </p>
 咖啡館排名比對資料作業
-<p><img src="http://666kb.com/i/ct1v2kt58ae9i2ry4.jpg" title="hosted by 666kb.com"/>
+<p><img src="http://666kb.com/i/ct1vadbkhn71kl43g.gif" title="hosted by 666kb.com"/>
 </p>
 咖啡館即時資訊處理作業
-<p><img src="http://666kb.com/i/ct1v2t1gbs8k22mf0.jpg" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1vamuk4d004c6ik.jpg" title="hosted by 666kb.com"/></p>
 廣告贊助商資訊管理作業
-<p><img src="http://666kb.com/i/ct1v32fdl904kxrzw.jpg" title="hosted by 666kb.com"/>
+<p><img src="http://666kb.com/i/ct1vayomn1at1ejng.jpg" title="hosted by 666kb.com"/>
 </p>
 分析知名部落客作業
-<p><img src="http://666kb.com/i/ct1v3awqap2qn8cfw.jpg" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1vb81dlebeis1do.gif" title="hosted by 666kb.com"/></p>
 
 
 ## 七、每個使用案例的名詞與概念類別列舉表 ##
