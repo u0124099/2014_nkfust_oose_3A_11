@@ -101,51 +101,51 @@
 
 ## 七、每個使用案例的名詞與概念類別列舉表 ##
 <p> <img src="http://666kb.com/i/csunk1xf5don8xt8t.png" title="hosted by 666kb.com"/>
-<p>
+</p>
 <p> <img src="http://666kb.com/i/csunkzgd8u9ggecel.gif" title="hosted by 666kb.com"/>
-<p>
+</p>
 <p> <img src="http://666kb.com/i/csunlmm074wtbidzh.gif" title="hosted by 666kb.com"/>
-<p>
+</p>
 <p> <img src="http://666kb.com/i/csunm6n6e1397z39p.gif" title="hosted by 666kb.com"/>
-<p>
+</p>
 <p> <img src="http://666kb.com/i/csunmmfvjhnzjvn7x.gif" title="hosted by 666kb.com"/>
-<p>
+</p>
 <p> <img src="http://666kb.com/i/csunn8brq6ao47tql.png" title="hosted by 666kb.com"/>
-<p>
+</p>
 
 ## 八、每個使用案例的初步類別圖 ##
-###咖啡館查詢作業　初步類別圖###
+咖啡館查詢作業　初步類別圖
 <p><img src="http://666kb.com/i/csunnyym8hfnasmdp.gif" title="hosted by 666kb.com"/></p>
-###咖啡館基本資料作業　初步類別圖###
+咖啡館基本資料作業　初步類別
 <p><img src="http://666kb.com/i/csunojw34dmdjaslp.gif" title="hosted by 666kb.com"/></p>
-###咖啡館排名比對資料作業　初步類別圖###
+咖啡館排名比對資料作業　初步類別圖
 <p><img src="http://666kb.com/i/csunp4dr915kl0099.gif" title="hosted by 666kb.com"/></p>
-###咖啡館即時資訊處理作業　初步類別圖###
+咖啡館即時資訊處理作業　初步類別圖
 <p><img src="http://666kb.com/i/csunq05yjtoylb0wd.gif" title="hosted by 666kb.com"/></p>
-###廣告贊助商資訊管理作業　初步類別圖###
+廣告贊助商資訊管理作業　初步類別圖
 <p><img src="http://666kb.com/i/csunqg0o9cpyo07kd.gif" title="hosted by 666kb.com"/></p>
-###分析知名部落客作業　初步類別圖###
+分析知名部落客作業　初步類別圖
 <p><img src="http://666kb.com/i/csunqynd12w1ybbrh.gif" title="hosted by 666kb.com"/></p>
 
 ##九、最後整個系統的初步類別圖##
-<p><img src="http://666kb.com/i/csunrlx9x6b52tetp.gif" title="hosted by 666kb.com"/><p>
+<p><img src="http://666kb.com/i/csunrlx9x6b52tetp.gif" title="hosted by 666kb.com"/></p>
 
 ##十、每個名稱事件之合約##
-<p><img src="http://666kb.com/i/csuojqenz8j4qdbnx.png" title="hosted by 666kb.com"/><p>
+<p><img src="http://666kb.com/i/csuojqenz8j4qdbnx.png" title="hosted by 666kb.com"/></p>
 
 ##十一、使用案例之系統循序圖##
-###咖啡館查詢作業###
-<p><<img src="http://666kb.com/i/csuoofva50rl4rzv1.gif" title="hosted by 666kb.com"/><p>
-###咖啡館基本資料處理作業###
-<p><img src="http://666kb.com/i/csuonm0kgfiodh2z1.gif" title="hosted by 666kb.com"/><p>
-###咖啡館排名比對作業###
-<p><<img src="http://666kb.com/i/csuop7jwxxiij10zx.gif" title="hosted by 666kb.com"/><p>
-###咖啡館即時資料處理作業###
+咖啡館查詢作業
+<p><<img src="http://666kb.com/i/csuoofva50rl4rzv1.gif" title="hosted by 666kb.com"/></p>
+咖啡館基本資料處理作業
+<p><img src="http://666kb.com/i/csuonm0kgfiodh2z1.gif" title="hosted by 666kb.com"/></p>
+咖啡館排名比對作業
+<p><<img src="http://666kb.com/i/csuop7jwxxiij10zx.gif" title="hosted by 666kb.com"/></p>
+咖啡館即時資料處理作業
 <p><img src="http://666kb.com/i/csuopsfm6voz1k2fh.gif" title="hosted by 666kb.com"/>
-<p>
-###廣告贊助商資訊管理作業###
+</p>
+廣告贊助商資訊管理作業
 <p><img src="http://666kb.com/i/csuoqg1v6a5ra32od.gif" title="hosted by 666kb.com"/>
-<p>
-###分析知名部落客作業###
+</p>
+分析知名部落客作業
 <p><img src="http://666kb.com/i/csuormy793d90eerx.gif" title="hosted by 666kb.com"/>
-<p>
+</p>
