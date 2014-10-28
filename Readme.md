@@ -118,17 +118,17 @@
 
 ## 八、每個使用案例的初步類別圖 ##
 咖啡館查詢作業　初步類別圖
-<p><img src="http://666kb.com/i/csunnyym8hfnasmdp.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v1rcahv0arfvgc.jpg" title="hosted by 666kb.com"/></p>
 咖啡館基本資料作業　初步類別圖
-<p><img src="http://666kb.com/i/csunojw34dmdjaslp.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v2bj8es4qn1hx8.jpg" title="hosted by 666kb.com"/></p>
 咖啡館排名比對資料作業　初步類別圖
-<p><img src="http://666kb.com/i/csunp4dr915kl0099.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v2kt58ae9i2ry4.jpg" title="hosted by 666kb.com"/></p>
 咖啡館即時資訊處理作業　初步類別圖
-<p><img src="http://666kb.com/i/csunq05yjtoylb0wd.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v2t1gbs8k22mf0.jpg" title="hosted by 666kb.com"/></p>
 廣告贊助商資訊管理作業　初步類別圖
-<p><img src="http://666kb.com/i/csunqg0o9cpyo07kd.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v32fdl904kxrzw.jpg" title="hosted by 666kb.com"/></p>
 分析知名部落客作業　初步類別圖
-<p><img src="http://666kb.com/i/csunqynd12w1ybbrh.gif" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/ct1v3awqap2qn8cfw.jpg" title="hosted by 666kb.com"/></p>
 
 ##九、最後整個系統的初步類別圖##
 <p><img src="http://666kb.com/i/csunrlx9x6b52tetp.gif" title="hosted by 666kb.com"/></p>
