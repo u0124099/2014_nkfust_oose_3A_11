@@ -85,17 +85,17 @@
 
 ## 六、個別使用案例的活動圖 ##
 
-###咖啡館查詢作業###
+咖啡館查詢作業
 <p><img src="http://666kb.com/i/ct1tz03ipsivdvaik.gif" title="hosted by 666kb.com"/><p>
-###咖啡館基本資料作業###
+咖啡館基本資料作業
 <p><img src="http://666kb.com/i/ct1u7duojwk08wiyk.gif" title="hosted by 666kb.com"/><p>
-###咖啡館排名比對資料作業###
+咖啡館排名比對資料作業
 <p><img src="http://666kb.com/i/ct1u82u8vxwl3cfek.gif" title="hosted by 666kb.com"/><p>
-###咖啡館即時資訊處理作業###
+咖啡館即時資訊處理作業
 <p><img src="http://666kb.com/i/ct1u8nqi898qey130.jpg" title="hosted by 666kb.com"/><p>
-###廣告贊助商資訊管理作業###
+廣告贊助商資訊管理作業
 <p><img src="http://666kb.com/i/ct1u9uvucvh9vslq4.jpg" title="hosted by 666kb.com"/><p>
-###分析知名部落客作業###
+分析知名部落客作業
 <p><img src="http://666kb.com/i/ct1uados4afcaxqt8.gif" title="hosted by 666kb.com"/><p>
 
 
