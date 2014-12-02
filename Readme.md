@@ -132,7 +132,7 @@
 <p><img src="http://666kb.com/i/ct8y70hem24qirm05.gif" title="hosted by 666kb.com"/></p>
 
 ##九、最後整個系統的初步類別圖##
-<p><img src=<img src="http://666kb.com/i/cu1bib1ky1kf5mymn.jpg" title="hosted by 666kb.com"/></p>
+<p><img src="http://666kb.com/i/cu1bib1ky1kf5mymn.jpg" title="hosted by 666kb.com"/></p>
 
 ##十、每個名稱事件之合約##
 <p><img src="http://666kb.com/i/csuojqenz8j4qdbnx.png" title="hosted by 666kb.com"/></p>
