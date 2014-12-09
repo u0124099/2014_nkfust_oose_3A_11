@@ -135,7 +135,7 @@
 <p><img src="http://666kb.com/i/cu1bib1ky1kf5mymn.jpg" title="hosted by 666kb.com"/></p>
 
 ##系統的強韌圖##
-<p><img src="http://666kb.com/i/cu1c384y9qrf5rm4v.jpg" title="hosted by 666kb.com"/><p>
+<p><img src="http://666kb.com/i/cu81c0h4qay9cjgkq.gif" title="hosted by 666kb.com"/><p>
 ##十、每個名稱事件之合約##
 <p><img src="http://666kb.com/i/csuojqenz8j4qdbnx.png" title="hosted by 666kb.com"/></p>
 
