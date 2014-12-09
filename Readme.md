@@ -152,3 +152,7 @@
 <p><img src="http://666kb.com/i/csuoqg1v6a5ra32od.gif" title="hosted by 666kb.com"/></p>
 分析知名部落客作業
 <p><img src="http://666kb.com/i/csuormy793d90eerx.gif" title="hosted by 666kb.com"/></p>
+
+##十二、整個統的循序圖##
+<p><img src="http://666kb.com/i/cu8gplw6wie6rk6i9.gif" title="hosted by 666kb.com"/></p>
+
